@@ -3,8 +3,15 @@
     "name": "tarefas-app",
     "slug": "tarefas-app",
     "version": "1.0.0",
+    "platforms": [
+      "android"
+    ],
+    "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android":{
+      "package": "com.jvitormcs.tarefasapp"
+    }
   }
 }
