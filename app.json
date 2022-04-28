@@ -2,10 +2,13 @@
   "expo": {
     "name": "tarefas-app",
     "slug": "tarefas-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "platforms": [
       "android"
     ],
+    "splash": {
+      "backgroundColor": "#151515"
+    },
     "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
