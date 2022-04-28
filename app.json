@@ -9,9 +9,6 @@
     "orientation": "portrait",
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "android":{
-      "package": "com.jvitormcs.tarefasapp"
-    }
+    ]
   }
 }
